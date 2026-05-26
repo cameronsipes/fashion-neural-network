@@ -10,7 +10,7 @@ How to run this project:
 
 What this project is:
 
-This project was for CS 307 Modeling and Machine Learning in Data Science at UIUC. This project builds a neural network that classifies images of clothing using the Fashion-MNIST dataset. Fashion-MNIST contains grayscale images of apparel items such as shirts, shoes, bags, and coats, with each image belonging to one of 10 categories.
+This project was for CS 307 Modeling and Machine Learning in Data Science at UIUC. This project builds a neural network that classifies images of clothing using the Fashion-MNIST dataset. Fashion-MNIST contains grayscale images of clothing items such as shirts, shoes, bags, and coats, with each image belonging to one of 10 categories.
 
 The notebook loads the image data using TorchVision, converts the images into tensors, and batches the data for training. It then trains a PyTorch convolutional neural network, a type of model commonly used for image classification tasks.
 
